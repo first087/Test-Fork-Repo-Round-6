@@ -123,8 +123,8 @@ Edit Readme
 ---
 
 - **ID :** 20
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** ลุงตู่
+- **Gender :** M
 
 ---
 **ID orathai
